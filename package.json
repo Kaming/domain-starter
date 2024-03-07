@@ -1,11 +1,11 @@
 {
-  "name": "bns",
-  "version": "0.1.0",
-  "private": true,
+  "name": "domain-starter",
+  "version": "0.1.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "ai-avatar-starter": "^1.0.0",
     "ethers": "^5.5.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -35,5 +35,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "### **Welcome 👋**",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxm-wu/domain-starter.git"
+  },
+  "keywords": [
+    "domain"
+  ],
+  "author": "xxm-wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxm-wu/domain-starter/issues"
+  },
+  "homepage": "https://github.com/xxm-wu/domain-starter#readme"
 }
